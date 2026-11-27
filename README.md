@@ -16,7 +16,7 @@ We build lightweight desktop tools designed to stay out of the way. Instead of b
 
 ### Featured Project
 
-#### [Kanso Browser](https://github.com)
+#### [Kanso Browser](https://github.com/Kanso-Browser/kanso-browser)
 A minimalist desktop web browser for Windows focused on privacy, directness, and speed.
 * **Architecture:** Splits UI chrome and page rendering across native Windows WebView2 instances coordinated by a Rust backend.
 * **Tech Stack:** `Rust` · `Tauri v2` · `React.js` · `TypeScript` · `Zustand` · `Astro.js`
